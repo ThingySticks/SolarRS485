@@ -1,0 +1,62 @@
+Partlist
+
+Exported from SolarRS485-V2.0.brd at 11/01/2020 22:37
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                    Package                 Library                Position (inch)       Orientation
+
+A        TPTP15R                  TP15R                   testpad                (2.7875 0.9)          R0
+B        TPTP15R                  TP15R                   testpad                (2.9875 0.9)          R0
+C1       0.1uF                    0805                    ThingySticks           (2.6875 0.3875)       R0
+C2       100uF                    CPOL-RADIAL-2.5MM-6.5MM SparkFun-Capacitors    (0.7875 1.5875)       R270
+C3       0.1uF                    0805                    ThingySticks           (1.55 0.9875)         R90
+C4       0.1uF                    0805                    ThingySticks           (2 1.425)             R270
+C5       0.1uF                    0805                    ThingySticks           (2.4625 1.4875)       R180
+D1       SS14 (SS12)              SMA-DIODE               SparkFun-DiscreteSemi  (2.8125 1.375)        R180
+D2       SS14 (SS12)              SMA-DIODE               SparkFun-DiscreteSemi  (2.8125 1.1625)       R180
+D3                                LED-1206-BOTTOM-2.0MM   ThingySticks           (2.7125 0.1625)       MR180
+D4       PSM712-LF-T7             SOT-23                  OPL_Circuit_Protection (3.025 0.5875)        R270
+D5                                LED-1206                ThingySticks           (3.1875 1.6625)       R0
+F1       6V/0.5A                  1206                    SparkFun-Fuses         (2.5 1.375)           R180
+F2       6V/0.5A                  1206                    SparkFun-Fuses         (2.5 1.2)             R180
+J1       RJ45                     RJ45-8                  ThingySticks           (3.7375 1.225)        R90
+J2                                JST-2-SMD               ThingySticks           (0.3 0.9)             MR90
+J3                                1X02                    ThingySticks           (2.525 1.7)           R270
+J4       Grove-I2C                JST-4-PH-GROVE          ThingySticks           (2.2375 1.6625)       R0
+J5                                1X05                    SparkFun-Connectors    (1.6 0.1875)          R180
+J6       7-segment LED            1X05                    SparkFun-Connectors    (1.9 1.6375)          R180
+J8       RJ45                     RJ45-8                  ThingySticks           (3.7375 0.5875)       R90
+J25      Grove-Serial             JST-4-PH-GROVE          ThingySticks           (1.9625 0.1625)       R180
+J33      Grove-Analog             JST-4-PH-GROVE          ThingySticks           (0.9 0.1625)          R180
+J34      Grove-IO                 JST-4-PH-GROVE          ThingySticks           (1.15 1.6625)         R0
+J44                               1X01_NO_SILK            SparkFun-Connectors    (3.0875 0.1625)       R0
+MS1      XENONA                   XENON_BREAKOUT_A        ThingySticks           (-0.0109252 0.45639764) R0
+R1       22R                      0805                    SparkFun-Resistors     (2.85 0.625)          R0
+R2       22R                      0805                    SparkFun-Resistors     (2.85 0.55)           R0
+R3       220R                     0805                    SparkFun-Resistors     (2.884 0.7455)        R180
+R4       100k                     0805                    SparkFun-Resistors     (1.1475 0.704)        R270
+R5       1k5                      0805                    SparkFun-Resistors     (2.375 0.275)         R90
+R6       10K                      0805                    SparkFun-Resistors     (2.85 1.275)          R180
+R7       100K                     0805                    SparkFun-Resistors     (2.6875 1.275)        R180
+R8       10K                      0805                    SparkFun-Resistors     (3.125 1.0375)        R270
+R9       100K                     0805                    SparkFun-Resistors     (3.125 0.9)           R270
+R10      10K                      0805                    SparkFun-Resistors     (2.3375 1.1625)       R270
+R11      100K                     0805                    SparkFun-Resistors     (2.0375 1.1625)       R90
+R12      100R                     0805                    SparkFun-Resistors     (1.0375 0.7)          R90
+R13      100R                     0805                    SparkFun-Resistors     (0.9375 0.7)          R90
+R14      100R                     0805                    SparkFun-Resistors     (0.8375 0.7)          R90
+R15      1k5                      0805                    SparkFun-Resistors     (3.2375 1.5625)       R0
+R21      4k7                      0805                    SparkFun-Resistors     (2.512 1.0535)        R180
+R22      4k7                      0805                    SparkFun-Resistors     (2.512 0.9545)        R180
+TP1      TPTP15R                  TP15R                   testpad                (2.7 1.475)           R0
+TP2      TPTP15R                  TP15R                   testpad                (1.0125 1.4375)       R0
+TP3      TPTP15R                  TP15R                   testpad                (0.25 1.425)          R0
+TP4      TPTP15R                  TP15R                   testpad                (0.3375 0.3625)       R0
+TP5      TPTP15R                  TP15R                   testpad                (2.9625 1.375)        R0
+TP6      TPTP15R                  TP15R                   testpad                (2.975 1.1625)        R0
+U$2      DISPLAY0.96_INCH_DISPLAY I2C_DISPLAY_0.96_INCH   ThingySticks           (3.2475 0.365)        R90
+U1        MAX3485CSA              SO08                    SparkFun-IC-Comms      (2.5625 0.575)        R270
+U2       +12v                     TO-252                  SparkFun-IC-Power      (2.8125 1.65)         R270
