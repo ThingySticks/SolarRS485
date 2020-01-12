@@ -10361,6 +10361,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 Battery connector</text>
 <wire x1="48.26" y1="53.34" x2="48.26" y2="2.54" width="0.1524" layer="97"/>
 <wire x1="223.52" y1="149.86" x2="223.52" y2="53.34" width="0.1524" layer="97"/>
+<text x="419.1" y="10.16" size="2.54" layer="97">2.0</text>
+<text x="355.6" y="10.16" size="2.54" layer="97">Stephen Harrison</text>
 </plain>
 <instances>
 <instance part="LOGO1" gate="G$1" x="127" y="200.66"/>

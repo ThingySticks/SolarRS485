@@ -1,6 +1,6 @@
 Partlist
 
-Exported from SolarRS485-V2.0.brd at 11/01/2020 22:37
+Exported from SolarRS485-V2.0.brd at 12/01/2020 15:08
 
 EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
 
